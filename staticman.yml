@@ -1,6 +1,6 @@
 comments:  
   allowedFields: ['address', 'name', 'title', 'description', 'rating']
-  branch: "master"
+  branch: "main"
   commitMessage: "Add Staticman data"
   filename: "entry{@timestamp}"
   format: "yaml"
